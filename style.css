@@ -1,0 +1,29 @@
+h1{
+    color: deeppink;
+}
+*{
+border: solid;
+
+}
+.division1{ display: flex;
+    justify-content: space-between;
+    background-color:#ff7450;
+    
+    }
+    .division2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #d2691e;
+    }
+    .division3{
+display: flex;
+justify-content: initial;
+background-color: f08080;
+
+
+
+    }
+    body{
+    background-color:#549ea0 ;
+    color:#9400d3;
+    }
